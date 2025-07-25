@@ -39,7 +39,8 @@ npm install
 # Start the development server
 npm start
 ```
-
+npm install
+npm run deploy
 ---
 
 ## 📂 Folder Structure
